@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630080054405",
+    "firebase_url": "https://tagxi-clone-f0ce8-default-rtdb.firebaseio.com",
+    "project_id": "tagxi-clone-f0ce8",
+    "storage_bucket": "tagxi-clone-f0ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630080054405:android:fb8a1e226e929c531975ec",
+        "android_client_info": {
+          "package_name": "com.tagxi.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630080054405-8i8gs58qklarqo9vm4eet3kekkn37koq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFE-UuL8PeYwawTX750nGmAbdNYlA1Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630080054405-8i8gs58qklarqo9vm4eet3kekkn37koq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630080054405-jhk66u312pijl1hnmnf572114dgcq1se.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tagxi.clone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
